@@ -10,4 +10,5 @@ Lucidchart:
 - Diagrama de clases UML: https://lucid.app/lucidchart/d793510c-e990-43a7-8e57-6116b90dd468/edit?viewport_loc=-3525%2C-1838%2C9096%2C4590%2C0_0&invitationId=inv_a7beeb9b-08d0-4e25-9132-c16500c83666
 
 Figma: 
-- Prototipo navegable: https://www.figma.com/design/C4qKgehmlUfNNLzffiGDjT/Restaurante?node-id=0-1&m=dev&t=eAOPNnUAxgce35sq-1
+- Prototipo navegable: 
+https://www.figma.com/design/7l5xmhpBemYKpRmee8LWLK/RESTAURANTE?node-id=0-1&t=EdeNszBVCXZzYhn0-1
